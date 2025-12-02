@@ -98,15 +98,19 @@ ______________
 Next Steps
 
 •	Build a dashboard using Plotly Dash or Power BI.
+
 •	Integrate ML models to predict future sales or customer churn.
+
 •	Expand the dataset with marketing and demographic information.
 ________________________________________
 Key Skills Demonstrated
 
 •	Data Cleaning & Wrangling
+
 •	Exploratory Data Analysis (EDA)
-•	Feature Engineering
+
 •	Visualization & Insight Communication
+
 •	Python (Pandas, Matplotlib, Seaborn)
 
 
