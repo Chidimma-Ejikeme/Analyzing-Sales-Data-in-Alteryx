@@ -2,6 +2,7 @@
 
 ________________________________________
 📘 Overview
+
 This project focuses on data cleaning, analysis, and visualization using Python.
 It explores sales data from a retail business to uncover key insights about profitability, customer behavior, payment methods, and product performance in different regions.
 The analysis was performed using Pandas, NumPy, and Matplotlib, with a focus on writing clean, efficient, and interpretable code.
