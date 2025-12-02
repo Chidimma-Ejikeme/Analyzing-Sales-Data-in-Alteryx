@@ -1,4 +1,4 @@
-## Retail Sales Data Cleaning & Analysis (Python Project)
+## Sales Data in Alteryx - Cleaning & Analysis (Python Project)
 
 ________________________________________
 📘 Overview
@@ -25,7 +25,7 @@ Matplotlib / Seaborn	Data visualization
 Jupyter Notebook	Interactive data analysis
 
 ________________________________________
-🧼 Data Cleaning Steps
+Data Cleaning Steps
 1.	Handled Missing Values
 2.	Removed Duplicates
 3.	Converted Data Types, Converted numeric and date columns appropriately
@@ -37,23 +37,23 @@ ________________________________________
 1. Monthly Sales and Profit Trend
 Visualized how sales and profit changed across months:
 Insight:
-Sales peaked in December, while profit margins were highest around November–December, suggesting holiday sales impact.
+Sales peaked in December, while profit margins were highest around November, December, suggesting holiday sales impact.
 
 2. Top 10 Most Profitable Customers
-A small group of customers contributes disproportionately to total profit — potential for loyalty rewards or targeted marketing.
+A small group of customers contributes disproportionately to total profit, potential for loyalty rewards or targeted marketing.
 
 3. Profit by Category
 Insight:
-Some product categories yield high revenue but low profit margins — suggesting the need for pricing review.
+Some product categories yield high revenue but low profit margins, suggesting the need for pricing review.
 
 4. Top 10 Orders by Profit (with Key Details)
 Displayed top 10 orders with columns: Order ID, Customer Name, Profit, and Region.
 Insight:
-High-profit orders were concentrated in specific regions — useful for optimizing logistics and promotions.
+High-profit orders were concentrated in specific regions useful for optimizing logistics and promotions.
 
 5. Profit by Region
 Insight:
-Some regions outperform others consistently — strong case for regional marketing focus.
+Some regions outperform others consistently, strong case for regional marketing focus.
 
 6. Payment Method Analysis
 Four columns for payment methods:
@@ -64,7 +64,7 @@ Four columns for payment methods:
 
 a. Payment Method Distribution (Pie Chart)
 Insight:
-EFT and Credit Card payments dominate transactions, while COD is least used — showing customer trust in digital payment options.
+EFT and Credit Card payments dominate transactions, while COD is least used, showing customer trust in digital payment options.
 
 b. Payment Method by Profit (Bar Chart)
 Insight:
@@ -84,6 +84,7 @@ Quick Takeaways:
 
 ________________________________________
 📈 Visualizations Summary
+
 Visualization	Purpose
 Line Chart	Monthly Sales and Profit Trend
 Bar Chart	Profit by Category / Region
@@ -94,11 +95,13 @@ Combined Subplots	Sales vs Profit Comparison
 
 ______________
 Next Steps
+
 •	Build a dashboard using Plotly Dash or Power BI.
 •	Integrate ML models to predict future sales or customer churn.
 •	Expand the dataset with marketing and demographic information.
 ________________________________________
 Key Skills Demonstrated
+
 •	Data Cleaning & Wrangling
 •	Exploratory Data Analysis (EDA)
 •	Feature Engineering
